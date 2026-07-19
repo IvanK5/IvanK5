@@ -1,23 +1,13 @@
-### Hi there 👋 I'm Ivan and it's nice to connect with you!
+### Hi, I'm Ivan 👋
 
-- 🌱 I’m interested in Data Science and Data Analysis, digital marketing and economics, ...
-- 🔭 I’m currently ending my second year master degree of mathematics, statistics and economics
-- 👯 I’m looking to collaborate on any interesting project in which I can learn new things
-- 💬 Ask me about digital marketing, business intelligence and economic modelisations
-- 📫 You can reach me: on ivankirtis5@gmail.com
-- ⚡ Fun fact: There's actually no fun fact I want to share with you!
+Economist and data specialist (Aix-Marseille School of Economics — AMSE). I do two things:
 
-<!--
-**IvanK5/IvanK5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🗄️ Odoo data structuring & migration** — At EdenAppart (property management, ~70 properties), I designed a 20-table data model, migrated 350 CRM records across 230+ fields with **zero discrepancies** (6,816 field-level checks), automated contract generation with QWeb, and scripted cross-version deployment in Python (XML-RPC, v17→v19).
 
-Here are some ideas to get you started:
+**📋 Survey engineering & M&E** — Trained by the World Bank DIME program in field research management. For the GH PEARL global health evaluation, I programmed data collection instruments (SurveyCTO, KoboCollect), trained field teams, and built the monitoring dashboard used to track them daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Python · R · Stata · SQL · SPSS · Power BI · Excel/VBA · Git
+
+📫 ivankirtis5@gmail.com · [LinkedIn](https://www.linkedin.com/in/ivan-houngbo)
+
+*Coming soon: an Odoo migration toolkit and an XLSForm pattern library — this profile is under active construction (July 2026).*
